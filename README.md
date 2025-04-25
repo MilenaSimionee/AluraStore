@@ -37,17 +37,7 @@ Com base nas análises e nas visualizações geradas, foi possível identificar 
 
 ---
 
-## 📊 Exemplos de Gráficos
-
-![image](https://github.com/user-attachments/assets/7c1598d5-67cf-451a-9c46-a11f35a506d3)
-
-![image](https://github.com/user-attachments/assets/0e8e0d60-382b-41b5-9e25-d3bd018f55e2)
 
 
 ---
 
-## ▶️ Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
